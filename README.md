@@ -4,7 +4,9 @@ This example is an on-chain ZK panagram game that uses Noir for the ZK circuits 
 ```bash
 nargo version = 1.0.0-beta.18 |  bb --version= 3.0.0-nightly.20260102
 ```
-
+```bash
+https://zk-panagram-nu.vercel.app/
+```
 
 
 ## Usage 
