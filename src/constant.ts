@@ -1,0 +1,7 @@
+export const PANAGRAM_CONTRACT_ADDRESS =
+  "0xBEf3405ED347aed2E30Ce30CE729E626B1151C10";
+
+export const ANSWER_HASH =
+  "0x29bc3f57279d6922718f2dafa2709dc88d4da630d0eb47000e5854a6c7682577";
+
+export const ANAGRAM = "prediction";
